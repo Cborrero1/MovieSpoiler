@@ -1,0 +1,12 @@
+Body {
+  background-color: lightblue;
+}
+
+.spoil-protect {
+  background-color: black;
+  color: black;
+}
+
+a:hover {
+  background-color: lightblue;
+}
